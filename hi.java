@@ -13,7 +13,7 @@ public class hi {
         int op=5565656565;
         String s="Success";
         DDL
-
+        DML
         System.out.println(a+b);
         System.out.println(a-b);
 
