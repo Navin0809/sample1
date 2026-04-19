@@ -12,6 +12,7 @@ public class hi {
         String aer="Ererre";
         int op=5565656565;
         String s="Success";
+        DDL
 
         System.out.println(a+b);
         System.out.println(a-b);
