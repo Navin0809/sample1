@@ -6,6 +6,7 @@ public class hi {
         int c=49;
         int d=40;
         int e=44545;
+        int h=56;
 
         System.out.println(a+b);
         System.out.println(a-b);
