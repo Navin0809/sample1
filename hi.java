@@ -10,6 +10,7 @@ public class hi {
         int lop=56;
         int kiop=90;
         String aer="Ererre";
+        int op="5565656565";
 
         System.out.println(a+b);
         System.out.println(a-b);
