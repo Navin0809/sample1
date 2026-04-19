@@ -15,6 +15,7 @@ public class hi {
         DDL
         DML
         DSG
+        MSG
         System.out.println(a+b);
         System.out.println(a-b);
 
