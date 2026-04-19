@@ -14,6 +14,7 @@ public class hi {
         String s="Success";
         DDL
         DML
+        DSG
         System.out.println(a+b);
         System.out.println(a-b);
 
