@@ -7,6 +7,7 @@ public class hi {
         int d=40;
         int e=44545;
         int h=56;
+        int lop=56;
 
         System.out.println(a+b);
         System.out.println(a-b);
